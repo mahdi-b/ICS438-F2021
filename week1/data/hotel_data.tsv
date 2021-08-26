@@ -1,0 +1,21 @@
+Person		P1	P2	P3	P4	P5	P6	P7	P8	P9	P10
+Hotel day 1	H1	H4	X	H2	X	X	H2	X	H5 	H1
+Hotel day 2	X	X	X	X	H1	X	X	X	X	X
+Hotel day 3	X	X	X	X	X	X	X	H4	X	X
+Hotel day 4	X	X	X	X	X	X	X	X	X	H3
+Hotel day 5	X	X	H1	X	X	H1	X	X	X	X
+Hotel day 6	X	X	X	X	X	H4	X	X	X	X
+Hotel day 7	X	X	X	X	X	X	X	X	X	X
+Hotel day 8	X	H3	X	X	X	X	X	H5	X	X
+Hotel day 9	X	X	X	X	X	X	X	X	X	X
+Hotel day 10	X	X	X	X	X	X	X	X	X	X
+Hotel day 11	X	X	X	X	X	X	H2	X	X	X
+Hotel day 12	H4	X	X	X	X	X	X	X	X	X
+Hotel day 13	X	X	X	X	X	X	X	X	X	X
+Hotel day 14	X	X	X	H2	X	X	X	X	X	X
+Hotel day 15	X	X	X	X	X	X	X	X	X	X
+Hotel day 16	X	X	X	X	X	X	X	X	X	X
+Hotel day 17	X	X	X	X	X	X	X	X	H3	X
+Hotel day 18	X	X	X	X	H3	X	X	X	X	X
+Hotel day 19	X	X	H5	X	X	X	X	X	X	X
+Hotel day 20	X	X	X	H3	X	X	H3	X	X	X
